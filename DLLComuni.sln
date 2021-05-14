@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B7A3AC4-0A53-45AA-8C33-21D69C9A28F2}"
+	ProjectSection(SolutionItems) = preProject
+		AgenziaEntrateDLL.dll = AgenziaEntrateDLL.dll
+		AnagInterface.dll = AnagInterface.dll
+		Anagrafica.dll = Anagrafica.dll
+		ASMTel.Web.DataTier.dll = ASMTel.Web.DataTier.dll
+		ASPnetMenu.dll = ASPnetMenu.dll
+		BE_RientroDaAccertamento.dll = BE_RientroDaAccertamento.dll
+		BonificaInterface.dll = BonificaInterface.dll
+		CatastoInterface.dll = CatastoInterface.dll
+		ComPlusInterface.dll = ComPlusInterface.dll
+		CreaTracciatoPOSTEL.dll = CreaTracciatoPOSTEL.dll
+		DAL.dll = DAL.dll
+		DriverEmail.dll = DriverEmail.dll
+		ElaborazioneDatiStampeInterface.dll = ElaborazioneDatiStampeInterface.dll
+		EntityFramework.dll = EntityFramework.dll
+		EntityFramework.SqlServer.dll = EntityFramework.SqlServer.dll
+		FileImporterInterface.dll = FileImporterInterface.dll
+		FutureFog.U4N.dll = FutureFog.U4N.dll
+		GeneraXMLDOT.dll = GeneraXMLDOT.dll
+		GestDatiOPENae.dll = GestDatiOPENae.dll
+		GestioneStradarioVaniDLL.dll = GestioneStradarioVaniDLL.dll
+		HashCodeProvider.dll = HashCodeProvider.dll
+		ICSharpCode.SharpZipLib.dll = ICSharpCode.SharpZipLib.dll
+		Iesi.Collections.dll = Iesi.Collections.dll
+		ImexInterface.dll = ImexInterface.dll
+		ImportazioneF24.dll = ImportazioneF24.dll
+		Importer290.dll = Importer290.dll
+		ImportInterface.dll = ImportInterface.dll
+		Interop.AdobePDFMakerX.dll = Interop.AdobePDFMakerX.dll
+		Interop.FDFACXLib.dll = Interop.FDFACXLib.dll
+		Interop.Office.dll = Interop.Office.dll
+		Interop.VBIDE.dll = Interop.VBIDE.dll
+		Interop.Word.dll = Interop.Word.dll
+		IRemInterfaceOSAP.dll = IRemInterfaceOSAP.dll
+		IRemInterfaceOSAP.snk = IRemInterfaceOSAP.snk
+		itextsharp.dll = itextsharp.dll
+		log4net.dll = log4net.dll
+		Microsoft.Web.UI.WebControls.dll = Microsoft.Web.UI.WebControls.dll
+		MySql.Data.dll = MySql.Data.dll
+		NHibernate.dll = NHibernate.dll
+		NReco.PdfGenerator.dll = NReco.PdfGenerator.dll
+		OggettiComuniStrade.dll = OggettiComuniStrade.dll
+		OggettiComuniStrade.snk = OggettiComuniStrade.snk
+		OPENgov.Acquisizioni.dll = OPENgov.Acquisizioni.dll
+		OPENgov.dll = OPENgov.dll
+		OPENgov_AgenziaEntrate.dll = OPENgov_AgenziaEntrate.dll
+		OPENgovDL.dll = OPENgovDL.dll
+		OPENUtility.dll = OPENUtility.dll
+		README.md = README.md
+		RemotingInterfaceAnater.dll = RemotingInterfaceAnater.dll
+		RemotingInterfaceAnater.snk = RemotingInterfaceAnater.snk
+		RemotingInterfaceEstrattore.dll = RemotingInterfaceEstrattore.dll
+		RemotingInterfaceMotoreH2O.dll = RemotingInterfaceMotoreH2O.dll
+		RemotingInterfaceMotoreTarsu.dll = RemotingInterfaceMotoreTarsu.dll
+		RemotingInterfaceOpenGovStradario.dll = RemotingInterfaceOpenGovStradario.dll
+		Ribes.OPENgov.Utilities.dll = Ribes.OPENgov.Utilities.dll
+		Ribes.OPENgov.WebControls.dll = Ribes.OPENgov.WebControls.dll
+		RibesDataGrid.dll = RibesDataGrid.dll
+		RIBESElaborazioneDocumentiInterface.dll = RIBESElaborazioneDocumentiInterface.dll
+		RIDataGrid.dll = RIDataGrid.dll
+		RKLib.ExportData.dll = RKLib.ExportData.dll
+		Select.HtmlToPdf.dll = Select.HtmlToPdf.dll
+		StampaBarcode.dll = StampaBarcode.dll
+		Utility.dll = Utility.dll
+		Utility.snk = Utility.snk
+		WebChart.dll = WebChart.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE77CF46-41EB-48B1-A16D-00FE00E1933F}
+	EndGlobalSection
+EndGlobal
